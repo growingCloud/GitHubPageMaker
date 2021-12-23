@@ -1,0 +1,11 @@
+growingCloud :
+  username: growingCloud        # user name : martin
+  name: growingCloud            # user full name : Martin Luther King
+  url_full: https://growingCloud.github.io       # Homepage url
+  url:
+  bio: 매일매일 공부하고 코딩하는, 성장하는 신입 개발자 구름입니다 :)
+  # 회사정보
+  picture: assets/built/images/icon.jpg   # author image, 글 모음에서 보이는 아이콘
+  facebook:             # facebook ID
+  twitter:              # twitter ID
+  cover: False
