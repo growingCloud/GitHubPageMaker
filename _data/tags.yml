@@ -1,16 +1,16 @@
 Lecture Note :
-  name: Lecture Note
+  name: lecture-note
   description: False
-  cover: assets/built/images/profile.jpg
+  cover: assets/built/images/blogbanner/Lecture_note_blank.png
 Personal Project :
-  name: Personal Project
+  name: personal-project
   description: False
-  cover: assets/built/images/profile.jpg
+  cover: assets/built/images/blogbanner/personal_project_blank.png
 Idea Note :
-  name: Idea Note
+  name: idea-note
   description: False
-  cover: assets/built/images/profile.jpg
+  cover: assets/built/images/blogbanner/IDEAnote_blank.png
 Ketogenic :
-  name: Ketogenic
+  name: ketogenic
   description: False
-  cover: assets/built/images/profile.jpg
+  cover: assets/built/images/blogbanner/ketogenic_blank.png
